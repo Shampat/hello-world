@@ -6,5 +6,5 @@ Attended an academy to learn Java and Oracle.
 Learnt Web development, SEO techniques, HTML, CSS and Javascript, Wordpress and managed hosting of own website. 
 Kept my self up to date with Unix features and Linux.
 Learnt Python online from enumerable resources.
-Started with basics of data celeaning and vizualisation, leading to machine learning.
+Started with basics of data cleaning with Pandas, Numpy and data vizualisation, leading to machine learning.
 Can comfortably write a code. Example, stock trading/predictions, using support vector classifiers.
